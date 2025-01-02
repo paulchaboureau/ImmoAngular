@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmoAngular.Server", "ImmoAngular.Server\ImmoAngular.Server.csproj", "{0CA95D93-D4A9-44DB-AA42-9630ACE0327A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "immoangular.client", "immoangular.client\immoangular.client.esproj", "{1EDADA85-6E0B-447D-9FAA-D81173C684E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA95D93-D4A9-44DB-AA42-9630ACE0327A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA95D93-D4A9-44DB-AA42-9630ACE0327A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CA95D93-D4A9-44DB-AA42-9630ACE0327A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CA95D93-D4A9-44DB-AA42-9630ACE0327A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDADA85-6E0B-447D-9FAA-D81173C684E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {203ABFC7-FB0C-40C0-9970-627D0DFFADE4}
+	EndGlobalSection
+EndGlobal

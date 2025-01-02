@@ -1,0 +1,6 @@
+@ImmoAngular.Server_HostAddress = http://localhost:5027
+
+GET {{ImmoAngular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
